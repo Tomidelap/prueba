@@ -12,6 +12,6 @@ Hola, este es un ejercicio de readme.md
 ## Contacto
 | Nombre        | Email                  | Teléfono       |
 |---------------|------------------------|----------------|
-| Tomas de la pena| tu.correo@ucc.edu.ar   | +54 351 123456 |
+|Tomas de la pena| 2409737@ucc.edu.ar   | +54 351 123456 |
 
 :sunglasses: 	😎
